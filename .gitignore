@@ -1,0 +1,5 @@
+datasets-csv-pessoas
+datasets-parquet-pessoas
+
+./datasets-csv-pessoas/*
+./datasets-parquet-pessoas/*
